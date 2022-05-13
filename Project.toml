@@ -1,0 +1,7 @@
+name = "DebugLogging"
+uuid = "ae3aebc3-6909-42a1-996d-20098ff678f7"
+authors = ["Jacob Quinn <quinn.jacobd@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
